@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# rive_try1
+# Happy Or Sad Teddy
 
 A new Flutter project.
 
@@ -18,4 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 =======
 # Happy-or-Sad-Teddy
 implementing Rive's teddy animation in flutter
->>>>>>> 4f2e40f93ba1d6851935433faaf28b639e6a7e67
+
