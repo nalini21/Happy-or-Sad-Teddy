@@ -1,8 +1,7 @@
 # Happy Or Sad Teddy
 implementing Rive's teddy animation in flutter
 
-<video > <slurce src = "assets/ezgif.com-gif-maker.gif" type="video/mp4">
-  </video>
+![Teddy](assets/448mxo.gif)
 
 ## Getting Started
 A few resources to get you started if this is your first Flutter project:
