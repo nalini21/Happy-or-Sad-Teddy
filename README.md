@@ -1,7 +1,7 @@
 # Happy Or Sad Teddy
 implementing Rive's teddy animation in flutter
 
-![Teddy](assets/448mxo.gif)
+![Teddy](assets/ezgif.com-gif-maker.gif)
 
 ## Getting Started
 A few resources to get you started if this is your first Flutter project:
